@@ -1,18 +1,18 @@
 [
   {
-    "package": "procmaps",
-    "oncran": true
-  },
-  {
     "package": "proffer",
     "oncran": true
   },
   {
-    "package": "profile",
+    "package": "procmaps",
     "oncran": true
   },
   {
     "package": "winch",
+    "oncran": true
+  },
+  {
+    "package": "profile",
     "oncran": true
   }
 ]
