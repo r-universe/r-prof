@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "procmaps"]
 	path = procmaps
 	url = https://github.com/r-prof/procmaps
-	shallow = true
-	registered = true
 [submodule "proffer"]
 	path = proffer
 	url = https://github.com/r-prof/proffer
-	shallow = true
-	registered = true
 [submodule "profile"]
 	path = profile
 	url = https://github.com/r-prof/profile
-	shallow = true
-	registered = true
 [submodule "winch"]
 	path = winch
 	url = https://github.com/r-prof/winch
-	shallow = true
-	registered = true
